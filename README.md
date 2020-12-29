@@ -6,4 +6,12 @@
 22.12.2020 Requests + Public Api
 
 29.12.2020  API+Telebot
+https://codex.so/python-flask
+
+Запустить сервер на Flask, который: 
+- по маршруту /joke выдаёт шутку о Чаке Норрисе
+- по маршруту /cat выдаёт картинку кошки 
+- по маршруту /custom выдаёт некоторый текст, используя любое public API
+https://github.com/public-apis/public-apis
+
 
