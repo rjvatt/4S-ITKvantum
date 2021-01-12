@@ -14,4 +14,5 @@ https://codex.so/python-flask
 - по маршруту /custom выдаёт некоторый текст, используя любое public API
 https://github.com/public-apis/public-apis
 
-
+12.01.2021 Requests + Flask
+- Доделать прошлое ДЗ
