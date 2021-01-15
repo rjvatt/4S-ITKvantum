@@ -1,11 +1,8 @@
 # Репозиторий группы 4С IT-Квантума г. Краснодар
 
-Друзья!
-С наступающим Новым Годом! Желаю Вам счастья, больше работы над собой и заданиями, которые вы получаете на занятиях по программирования!
+### 22.12.2020 Requests + Public Api
 
-22.12.2020 Requests + Public Api
-
-29.12.2020  API+Telebot
+### 29.12.2020  API+Telebot
 https://codex.so/python-flask
 
 Запустить сервер на Flask, который: 
@@ -14,5 +11,16 @@ https://codex.so/python-flask
 - по маршруту /custom выдаёт некоторый текст, используя любое public API
 https://github.com/public-apis/public-apis
 
-12.01.2021 Requests + Flask
+### 12.01.2021 Requests + Flask
 - Доделать прошлое ДЗ
+
+### 15.01.2021 
+~~~
+Адрес API:  
+http://192.168.1.178:4567/  
+Маршруты:  
+/create_team?teamname=name - создание команды с именем name  
+/list_team - получение перечня всех команд  
+/add?id=TOKEN - добавление очков с токеном TOKEN  
+/remove?id=TOKEN - удаление очков команде  
+~~~
