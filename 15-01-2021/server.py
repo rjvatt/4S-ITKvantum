@@ -1,6 +1,7 @@
 import os.path
 
 from flask import Flask, Response, request, jsonify, render_template
+from flaskext.mysql import MySQL
 import string
 import random
 import requests
@@ -61,7 +62,6 @@ def createTeam():
 @app.route('/list_team')
 def listTeam():
     return jsonify(database)
-
 
 @app.route('/add')
 def addScore():
