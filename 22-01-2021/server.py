@@ -6,6 +6,9 @@ import sqlite3
 # Записать список в файл
 # Прочитать список из файла
 
+
+
+
 # write list to file
 
 app = Flask(__name__)
